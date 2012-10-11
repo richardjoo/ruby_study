@@ -1,2 +1,7 @@
-ruby_study
+ruby study
 ==========
+
+
+I often use Wiki.  You can visit Wiki section to see if I have anything there or not  :-)
+
+
